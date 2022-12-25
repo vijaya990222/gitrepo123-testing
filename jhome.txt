@@ -3,3 +3,4 @@ this is task two
 git is lightweight
 git is widely used tool
 git is easy to work with
+git is nice tool
